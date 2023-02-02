@@ -1,5 +1,5 @@
 ### E ai! Eu sou o Felipe Silva 👦🏻
-- Estudante DevOps 
+- Graduado em Tecnologia em DevOps 
 <div>
   <a href="https://github.com/felipefrsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefrsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
