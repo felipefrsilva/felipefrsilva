@@ -1,6 +1,8 @@
-### E ai! Eu sou o Felipe Silva 👦🏻
-- Graduado em Tecnologia em DevOps pela Faculdade Anhanguera
+## Hey! Welcome 
+### I'm Felipe Silva <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
+<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Software Developer Engineer
 <div>
+  
   <a href="https://github.com/felipefrsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefrsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrsilva&layout=compact&langs_count=7&theme=dark"/>
